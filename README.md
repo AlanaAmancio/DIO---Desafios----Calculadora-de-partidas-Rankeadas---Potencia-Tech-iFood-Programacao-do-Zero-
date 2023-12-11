@@ -1,4 +1,4 @@
 # DIO-Desafios 👩‍🎓
-## Calculadora de partidas Rankeadas-Potencia-Tech-iFood-Programacao-do-Zero 💻
+## Calculadora de Partidas Rankeadas - Potência Tech iFood - Programação do Zero 💻
 
-### No arquivo index foi construido utilizando **varivéis**, **operadores**, **função**, **switch case** ✔️
+### O arquivo index foi construido utilizando *variáveis*, *operadores*, *funções* e *switch case* ✔️
